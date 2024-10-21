@@ -5,3 +5,6 @@ According to OpenAI, swarm focuses on “making agent coordination and execution
 
 
 ## Google's RIG system in DataGemma
+Google introduced its latest model, DataGemma, which unlike previous RAG systems works on a RIG (Retrieval Interleaved Generation) technique, which merges Language Models with Data Commons, which is an open-source large-scale database of public data.
+
+## Video Explaining OpenAI's Swarm and Google's RIG in DataGemma:
