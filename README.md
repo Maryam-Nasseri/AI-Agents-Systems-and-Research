@@ -1,5 +1,11 @@
 ## A Collection of the Latest AI Agents Systems, Research Initiatives & Video Tutorials
-The links and explanations of these AI agentic systems and research: OpenAI Swarm, Google's RIG system in DataGemma, Adala autonomous labelling system
+
+| AI Agents System  | AI Agents System |
+| ------------- | ------------- |
+| OpenAI Swarm  | Google's RIG system in DataGemma  |
+| Adala autonomous labelling system  | Agent Forge  |
+
+OpenAI Swarm, Google's RIG system in DataGemma, Adala autonomous labelling system, 
 
 ### OpenAI Swarm:
 According to OpenAI, swarm focuses on “making agent coordination and execution lightweight, highly controllable, and easily testable.” Swarm uses two sub-systems of ‘agents’ or ‘routines’ and ‘hand-offs’, where an agent is responsible for instructions and tools and at any point during the process, can hand off the responsibility to another agent.
