@@ -21,3 +21,6 @@ Google introduced its latest model, DataGemma, which unlike previous RAG systems
 
 ## Adala Autonomous Data Labelling System
 Adala offers a robust framework for implementing agents specialized in data processing, with an emphasis on diverse data labelling tasks. These agents are autonomous, meaning they can independently acquire one or more skills through iterative learning. This learning process is influenced by their operating environment, observations, and reflections. Users define the environment by providing a ground truth dataset. Every agent learns and applies its skills in what we refer to as a "runtime", synonymous with LLM.
+
+## AgentForge Agentic Development and Testing Framework 
+AgentForge is a low-code framework designed for the rapid development, testing, and iteration of AI-powered autonomous agents and cognitive architectures. Compatible with a range of LLM models—including OpenAI, Google's Gemini, Anthropic's Claude, and local models via Ollama or LMStudio
