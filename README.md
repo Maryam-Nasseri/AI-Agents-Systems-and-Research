@@ -1,10 +1,10 @@
 ## A Collection of the Latest AI Agents Systems, Research Initiatives & Video Tutorials
 This repository contains the explanation, links, and videos about these AI Agents and agentic systems:
 
-| AI Agents System  | AI Agents System |
-| ------------- | ------------- |
-| OpenAI Swarm  | Google's RIG system in DataGemma  |
-| Adala autonomous labelling system  | AgentForge  |
+| AI Agents System  | AI Agents System | | AI Agents System |
+| ------------- | ------------- | ------------- |
+| OpenAI Swarm  | Google's RIG system in DataGemma  | Adala autonomous labelling system  |
+| AgentForge |  -- |
 
 
 
