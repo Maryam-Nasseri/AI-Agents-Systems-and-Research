@@ -20,12 +20,10 @@ Google introduced its latest model, DataGemma. Unlike previous RAG systems, it w
 
 
 ## Adala Autonomous Data Labelling System
-Adala offers a robust framework for implementing agents specialized in data processing, emphasising diverse data labelling tasks. These agents are autonomous, meaning they can independently acquire one or more skills through iterative learning. This learning process is influenced by their operating environment, observations, and reflections. Users define the environment by providing a ground truth dataset. Every agent learns and applies its skills in what we refer to as a "runtime", synonymous with LLM.
+Adala offers a robust framework for implementing agents specialized in data processing, emphasising diverse data labelling tasks. These agents are autonomous, meaning they can independently acquire one or more skills through iterative learning. This learning process is influenced by their operating environment, observations, and reflections. Users define the environment by providing a ground truth dataset. Every agent learns and applies its skills in what we call a "runtime", synonymous with LLM.
 
 ## AgentForge Agentic Development and Testing Framework 
 AgentForge is a low-code framework designed for the rapid development, testing, and iteration of AI-powered autonomous agents and cognitive architectures. Compatible with a range of LLM models—including OpenAI, Google's Gemini, Anthropic's Claude, and local models via Ollama or LMStudio.
 
 ## Open Interpreter Agentic Assistant 
-Open Interpreter lets LLMs run code (Python, Javascript, Shell, and more) locally. You can chat with Open Interpreter through a ChatGPT-like interface in your terminal by running $ interpreter after installing.
-
-This provides a natural-language interface to your computer's general-purpose capabilities
+Open Interpreter lets LLMs run code (Python, Javascript, Shell, and more) locally. You can chat with Open Interpreter through a ChatGPT-like interface in your terminal by running $ interpreter after installing. This provides a natural-language interface to your computer's general-purpose capabilities. 
