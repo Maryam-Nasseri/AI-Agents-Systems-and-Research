@@ -5,6 +5,7 @@ This repository contains the explanation, links, and videos about these AI Agent
 | ------------- | ------------- | ------------- |
 | OpenAI Swarm  | Google's RIG system in DataGemma  | Adala autonomous labelling system  |
 | AgentForge | AgentGPT | Open Interpreter|
+| Agent Verse |  | |
 
 
 
