@@ -28,3 +28,6 @@ AgentForge is a low-code framework designed for the rapid development, testing, 
 
 ## Open Interpreter Agentic Assistant 
 Open Interpreter lets LLMs run code (Python, Javascript, Shell, and more) locally. You can chat with Open Interpreter through a ChatGPT-like interface in your terminal by running $ interpreter after installing. This provides a natural-language interface to your computer's general-purpose capabilities. 
+
+## Agent Verse
+AgentVerse is designed to facilitate the deployment of multiple LLM-based agents in various applications. AgentVerse primarily provides two frameworks: task-solving and simulation.
