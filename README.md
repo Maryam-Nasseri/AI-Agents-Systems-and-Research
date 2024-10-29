@@ -5,7 +5,7 @@ This repository contains the explanation, links, and videos about these AI Agent
 | ------------- | ------------- | ------------- |
 | OpenAI Swarm  | Google's RIG system in DataGemma  | Adala autonomous labelling system  |
 | AgentForge | AgentGPT | Open Interpreter|
-| Agent Verse |  | |
+| Agent Verse | AutoGen | |
 
 
 
@@ -31,3 +31,5 @@ Open Interpreter lets LLMs run code (Python, Javascript, Shell, and more) locall
 
 ## Agent Verse
 AgentVerse is designed to facilitate the deployment of multiple LLM-based agents in various applications. AgentVerse primarily provides two frameworks: task-solving and simulation.
+
+## AutoGen agentic system
