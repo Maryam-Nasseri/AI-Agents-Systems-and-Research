@@ -33,3 +33,4 @@ Open Interpreter lets LLMs run code (Python, Javascript, Shell, and more) locall
 AgentVerse is designed to facilitate the deployment of multiple LLM-based agents in various applications. AgentVerse primarily provides two frameworks: task-solving and simulation.
 
 ## AutoGen agentic system
+AutoGen is a Multi-agent multi-task agentic framework. AutoGen is the collaboration between humans and multiple agentic systems.
