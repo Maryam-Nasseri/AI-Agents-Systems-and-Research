@@ -5,7 +5,7 @@ This repository contains the explanation, links, and videos about these AI Agent
 | ------------- | ------------- | ------------- |
 | OpenAI Swarm  | Google's RIG system in DataGemma  | Adala autonomous labelling system  |
 | AgentForge | AgentGPT | Open Interpreter|
-| Agent Verse | AutoGen | |
+| Agent Verse | AutoGen | CrewAI |
 
 
 
@@ -34,3 +34,7 @@ AgentVerse is designed to facilitate the deployment of multiple LLM-based agents
 
 ## AutoGen agentic system
 AutoGen is a Multi-agent multi-task agentic framework. AutoGen is the collaboration between humans and multiple agentic systems. Agents communicate via asynchronous messages, supporting both event-driven and request/response interaction patterns. Users can interoperate agents across different programming languages.
+
+## CrewAI agentic system
+CrewAI agentic framework offers multi-agent collaboration with different LLMs for complex tasks, including RAG systems.
+
