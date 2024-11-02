@@ -38,3 +38,5 @@ AutoGen is a Multi-agent multi-task agentic framework. AutoGen is the collaborat
 ## CrewAI agentic system
 CrewAI agentic framework offers multi-agent collaboration with different LLMs for complex tasks, including RAG systems.
 
+## CrewAI Hands-on Video Tutorial:
+[![Watch the video about Latest AI agents Systems RIG Swarm Adala](https://img.youtube.com/vi/XkS4ifkLwwQ/maxresdefault.jpg)](https://youtu.be/XkS4ifkLwwQ) 
