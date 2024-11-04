@@ -24,6 +24,12 @@ Google introduced its latest model, DataGemma. Unlike previous RAG systems, it w
 ## Adala Autonomous Data Labelling System
 Adala offers a robust framework for implementing agents specialized in data processing, emphasising diverse data labelling tasks. These agents are autonomous, meaning they can independently acquire one or more skills through iterative learning. This learning process is influenced by their operating environment, observations, and reflections. Users define the environment by providing a ground truth dataset. Every agent learns and applies its skills in what we call a "runtime", synonymous with LLM.
 
+## CrewAI agentic system
+CrewAI agentic framework offers multi-agent collaboration with different LLMs for complex tasks, including RAG systems.
+
+## CrewAI Hands-on Video Tutorial:
+[![Watch the video about Latest AI agents Systems RIG Swarm Adala](https://img.youtube.com/vi/XkS4ifkLwwQ/maxresdefault.jpg)](https://youtu.be/XkS4ifkLwwQ) 
+
 ## AgentForge Agentic Development and Testing Framework 
 AgentForge is a low-code framework designed for the rapid development, testing, and iteration of AI-powered autonomous agents and cognitive architectures. Compatible with a range of LLM models—including OpenAI, Google's Gemini, Anthropic's Claude, and local models via Ollama or LMStudio.
 
@@ -36,8 +42,4 @@ AgentVerse is designed to facilitate the deployment of multiple LLM-based agents
 ## AutoGen agentic system
 AutoGen is a Multi-agent multi-task agentic framework. AutoGen is the collaboration between humans and multiple agentic systems. Agents communicate via asynchronous messages, supporting both event-driven and request/response interaction patterns. Users can interoperate agents across different programming languages.
 
-## CrewAI agentic system
-CrewAI agentic framework offers multi-agent collaboration with different LLMs for complex tasks, including RAG systems.
 
-## CrewAI Hands-on Video Tutorial:
-[![Watch the video about Latest AI agents Systems RIG Swarm Adala](https://img.youtube.com/vi/XkS4ifkLwwQ/maxresdefault.jpg)](https://youtu.be/XkS4ifkLwwQ) 
