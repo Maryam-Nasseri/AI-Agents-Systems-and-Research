@@ -30,6 +30,9 @@ CrewAI agentic framework offers multi-agent collaboration with different LLMs fo
 ## CrewAI Hands-on Video Tutorial:
 [![Watch the video about Latest AI agents Systems RIG Swarm Adala](https://img.youtube.com/vi/XkS4ifkLwwQ/maxresdefault.jpg)](https://youtu.be/XkS4ifkLwwQ) 
 
+## AutoGen agentic system
+AutoGen is a Multi-agent multi-task agentic framework. AutoGen is the collaboration between humans and multiple agentic systems. Agents communicate via asynchronous messages, supporting both event-driven and request/response interaction patterns. Users can interoperate agents across different programming languages.
+
 ## AgentForge Agentic Development and Testing Framework 
 AgentForge is a low-code framework designed for the rapid development, testing, and iteration of AI-powered autonomous agents and cognitive architectures. Compatible with a range of LLM models—including OpenAI, Google's Gemini, Anthropic's Claude, and local models via Ollama or LMStudio.
 
@@ -39,7 +42,6 @@ Open Interpreter lets LLMs run code (Python, Javascript, Shell, and more) locall
 ## Agent Verse
 AgentVerse is designed to facilitate the deployment of multiple LLM-based agents in various applications. AgentVerse primarily provides two frameworks: task-solving and simulation.
 
-## AutoGen agentic system
-AutoGen is a Multi-agent multi-task agentic framework. AutoGen is the collaboration between humans and multiple agentic systems. Agents communicate via asynchronous messages, supporting both event-driven and request/response interaction patterns. Users can interoperate agents across different programming languages.
+
 
 
