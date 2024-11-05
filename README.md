@@ -33,6 +33,9 @@ CrewAI agentic framework offers multi-agent collaboration with different LLMs fo
 ## AutoGen agentic system
 AutoGen is a Multi-agent multi-task agentic framework. AutoGen is the collaboration between humans and multiple agentic systems. Agents communicate via asynchronous messages, supporting both event-driven and request/response interaction patterns. Users can interoperate agents across different programming languages.
 
+## Reflexion: Language Agents with Verbal Reinforcement Learning
+The developers (Shinn et al in 2023) showed that using linguistic feedback and asking the model to self-refine itself is more effective than the traditional reinforcement learning methods e.g., by updating weights.
+
 ## AgentForge Agentic Development and Testing Framework 
 AgentForge is a low-code framework designed for the rapid development, testing, and iteration of AI-powered autonomous agents and cognitive architectures. Compatible with a range of LLM models—including OpenAI, Google's Gemini, Anthropic's Claude, and local models via Ollama or LMStudio.
 
