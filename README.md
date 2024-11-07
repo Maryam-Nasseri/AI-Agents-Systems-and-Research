@@ -28,7 +28,7 @@ Adala offers a robust framework for implementing agents specialized in data proc
 CrewAI agentic framework offers multi-agent collaboration with different LLMs for complex tasks, including RAG systems.
 
 ## CrewAI Hands-on Video Tutorial:
-[![Watch the video about Latest AI agents Systems RIG Swarm Adala](https://img.youtube.com/vi/XkS4ifkLwwQ/maxresdefault.jpg)](https://youtu.be/XkS4ifkLwwQ) 
+[![Watch the video about CrewAI hands-on tutorial](https://img.youtube.com/vi/XkS4ifkLwwQ/maxresdefault.jpg)](https://youtu.be/XkS4ifkLwwQ) 
 
 ## AutoGen agentic system
 AutoGen is a Multi-agent multi-task agentic framework. AutoGen is the collaboration between humans and multiple agentic systems. Agents communicate via asynchronous messages, supporting both event-driven and request/response interaction patterns. Users can interoperate agents across different programming languages.
@@ -37,7 +37,7 @@ AutoGen is a Multi-agent multi-task agentic framework. AutoGen is the collaborat
 The developers (Shinn et al in 2023) showed that using linguistic feedback and asking the model to self-refine itself is more effective than the traditional reinforcement learning methods e.g., by updating weights.
 
 ## Video Explanation of AutoGen and Reflexion Methods of Agentic Systems
-
+[![Watch the video about AI agents and systems](https://img.youtube.com/vi/lA3Tju4VUho/maxresdefault.jpg)](https://youtu.be/lA3Tju4VUho) 
 
 ## Open Interpreter Agentic Assistant 
 Open Interpreter lets LLMs run code (Python, Javascript, Shell, and more) locally. You can chat with Open Interpreter through a ChatGPT-like interface in your terminal by running $ interpreter after installing. This provides a natural-language interface to your computer's general-purpose capabilities. 
