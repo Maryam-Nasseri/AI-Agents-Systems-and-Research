@@ -36,6 +36,9 @@ AutoGen is a Multi-agent multi-task agentic framework. AutoGen is the collaborat
 ## Reflexion: Language Agents with Verbal Reinforcement Learning
 The developers (Shinn et al in 2023) showed that using linguistic feedback and asking the model to self-refine itself is more effective than the traditional reinforcement learning methods e.g., by updating weights.
 
+## HuggingGPT Agentic System
+HuggingGPT uses ChatGPT as the controller to receive the task prompt from a user and then divide it into sub-tasks. The controller then uses any relevant model available in the Hugging Face repositories to perform the sub-tasks and retain the results, and even combine the results of multiple AI models for very complex tasks that involve multiple modalities such as text, speech, and vision.
+
 ## Video Explanation of AutoGen and Reflexion Methods of Agentic Systems
 [![Watch the video about AI agents and systems](https://img.youtube.com/vi/lA3Tju4VUho/maxresdefault.jpg)](https://youtu.be/lA3Tju4VUho) 
 
