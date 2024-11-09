@@ -4,7 +4,8 @@ This repository contains the explanation, links, and videos about these AI Agent
 | AI Agents System  | AI Agents System | AI Agents System |
 | ------------- | ------------- | ------------- |
 | OpenAI Swarm  | Google's RIG system in DataGemma  | Adala labelling system  |
-| CrewAI | AutoGen| Open Interpreter|
+| CrewAI | AutoGen| Reflexion |
+| HuggingGPT | Open Interpreter | -- |
 | AgentForge | AgentGPT | Agent Verse|
 | -- | -- | -- |
 
