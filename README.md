@@ -46,6 +46,7 @@ HuggingGPT uses ChatGPT as the controller to receive the task prompt from a user
 ## Open Interpreter Agentic Assistant 
 Open Interpreter lets LLMs run code (Python, Javascript, Shell, and more) locally. You can chat with Open Interpreter through a ChatGPT-like interface in your terminal by running $ interpreter after installing. This provides a natural-language interface to your computer's general-purpose capabilities. 
 
+## Video Tutorial on No-code Local AI Agents RAG Workflow for Financial Market Analysis
 [![Watch the video about Using Open Interpreter for AI Agents  RAG workflow](https://img.youtube.com/vi/ubrTaCyCDlo/maxresdefault.jpg)](https://youtu.be/ubrTaCyCDlo) 
 
 ## AgentForge Agentic Development and Testing Framework 
