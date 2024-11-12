@@ -5,9 +5,9 @@ This repository contains the explanation, links, and videos about these AI Agent
 | ------------- | ------------- | ------------- |
 | OpenAI Swarm  | Google's RIG system in DataGemma  | Adala labelling system  |
 | CrewAI | AutoGen| Reflexion |
-| HuggingGPT | Open Interpreter | -- |
-| AgentForge | AgentGPT | Agent Verse|
-| -- | -- | -- |
+| HuggingGPT | Open Interpreter | AgentForge |
+|  | AgentGPT | Agent Verse|
+| TalktoData | -- | -- |
 
 
 
@@ -55,6 +55,7 @@ AgentForge is a low-code framework designed for the rapid development, testing, 
 ## Agent Verse
 AgentVerse is designed to facilitate the deployment of multiple LLM-based agents in various applications. AgentVerse primarily provides two frameworks: task-solving and simulation.
 
-
+## TalktoData
+Agentic system for Data discovery, data cleaning, analysis & visualization
 
 
