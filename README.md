@@ -56,6 +56,6 @@ AgentForge is a low-code framework designed for the rapid development, testing, 
 AgentVerse is designed to facilitate the deployment of multiple LLM-based agents in various applications. AgentVerse primarily provides two frameworks: task-solving and simulation.
 
 ## TalktoData
-Agentic system for Data discovery, data cleaning, analysis & visualization
+This is an agentic system for Data discovery, data cleaning, analysis & visualization; AI Data Analyst that works with your CSV, Excel, Google Sheets and SQL Databases. The system has a limited free tier too.
 
 
