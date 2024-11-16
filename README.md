@@ -6,7 +6,7 @@ This repository contains the explanation, links, and videos about these AI Agent
 | OpenAI Swarm  | Google's RIG system in DataGemma  | Adala labelling system  |  CrewAI  |
 |AutoGen| Reflexion | HuggingGPT | Open Interpreter |
 | AgentForge | AgentGPT | Agent Verse | TalktoData |
-| -- | -- | | -- |
+| Multiagent Debate | -- | -- | -- |
 | -- | -- | -- | -- |
 
 
@@ -58,4 +58,5 @@ AgentVerse is designed to facilitate the deployment of multiple LLM-based agents
 ## TalktoData
 This is an agentic system for Data discovery, data cleaning, analysis & visualization; AI Data Analyst that works with your CSV, Excel, Google Sheets and SQL Databases. The system has a limited free tier too.
 
-
+## Multiagent Debate
+This is a general-purpose agentic system based on the paper "Improving Factuality and Reasoning in Language Models through Multiagent Debate", where individual language models generate and critique other models' outputs, to contribute to factually accurate responses.
