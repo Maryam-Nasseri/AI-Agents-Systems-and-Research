@@ -5,9 +5,10 @@ This repository contains the explanation, links, and videos about these AI Agent
 | ------------- | ------------- | ------------- | ------------- |
 | OpenAI Swarm  | Google's RIG system in DataGemma  | Adala labelling system  |  CrewAI  |
 |AutoGen| Reflexion | HuggingGPT | Open Interpreter |
-| AgentForge | AgentGPT | Agent Verse | TalktoData |
-| Multiagent Debate | -- | -- | -- |
-| -- | -- | -- | -- |
+|  Internet of Agents (IOA) | AgentForge | AgentGPT | Agent Verse |
+| TalktoData | Multiagent Debate | -- | -- |
+|  | -- | -- | -- |
+
 
 
 
@@ -48,6 +49,9 @@ Open Interpreter lets LLMs run code (Python, Javascript, Shell, and more) locall
 
 ## Video Tutorial on No-code Local AI Agents RAG Workflow for Financial Market Analysis
 [![Watch the video about Using Open Interpreter for AI Agents  RAG workflow](https://img.youtube.com/vi/ubrTaCyCDlo/maxresdefault.jpg)](https://youtu.be/ubrTaCyCDlo) 
+
+## Internet of Agents (IOA)
+
 
 ## AgentForge Agentic Development and Testing Framework 
 AgentForge is a low-code framework designed for the rapid development, testing, and iteration of AI-powered autonomous agents and cognitive architectures. Compatible with a range of LLM models—including OpenAI, Google's Gemini, Anthropic's Claude, and local models via Ollama or LMStudio.
