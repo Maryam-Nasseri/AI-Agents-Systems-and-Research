@@ -51,7 +51,7 @@ Open Interpreter lets LLMs run code (Python, Javascript, Shell, and more) locall
 [![Watch the video about Using Open Interpreter for AI Agents  RAG workflow](https://img.youtube.com/vi/ubrTaCyCDlo/maxresdefault.jpg)](https://youtu.be/ubrTaCyCDlo) 
 
 ## Internet of Agents (IOA)
-
+The Internet of Agents or IOA system for large language models is inspired by how the Internet works, more specifically decentralised collaborative projects such as Wikipedia and Linux, to build an Internet-like system for autonomous agents.
 
 ## AgentForge Agentic Development and Testing Framework 
 AgentForge is a low-code framework designed for the rapid development, testing, and iteration of AI-powered autonomous agents and cognitive architectures. Compatible with a range of LLM models—including OpenAI, Google's Gemini, Anthropic's Claude, and local models via Ollama or LMStudio.
