@@ -53,7 +53,7 @@ Open Interpreter lets LLMs run code (Python, Javascript, Shell, and more) locall
 ## Internet of Agents (IOA)
 The Internet of Agents or IOA system for large language models is inspired by how the Internet works, more specifically decentralised collaborative projects such as Wikipedia and Linux, to build an Internet-like system for autonomous agents. Below is a video explaining the full method:
 
-[![Watch the video about Internet of Agents IOA system](https://img.youtube.com/vi//I_UgJtWu1K4/maxresdefault.jpg)](https://youtu.be//I_UgJtWu1K4) 
+[![Watch the video about Internet of Agents IOA system](https://img.youtube.com/vi//IUgJtWu1K4/maxresdefault.jpg)](https://youtu.be//IUgJtWu1K4) 
 
 
 ## AgentForge Agentic Development and Testing Framework 
