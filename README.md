@@ -68,3 +68,6 @@ This is an agentic system for Data discovery, data cleaning, analysis & visualiz
 
 ## Multiagent Debate
 This is a general-purpose agentic system based on the paper "Improving Factuality and Reasoning in Language Models through Multiagent Debate", where individual language models generate and critique other models' outputs, to contribute to factually accurate responses.
+
+## GPT Pilot
+GPT Pilot is an AI agent that codes the entire app while you can observe the code being written as a development tool for scalable apps. Only around 5% of intervention is needed by a developer.
