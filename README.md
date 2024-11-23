@@ -6,7 +6,7 @@ This repository contains the explanation, links, and videos about these AI Agent
 | OpenAI Swarm  | Google's RIG system in DataGemma  | Adala labelling system  |  CrewAI  |
 |AutoGen| Reflexion | HuggingGPT | Open Interpreter |
 |  Internet of Agents (IOA) | AgentForge | AgentGPT | Agent Verse |
-| TalktoData | Multiagent Debate | GPT Pilot | -- |
+| TalktoData | Multiagent Debate | GPT Pilot | Vanna.AI |
 |  | -- | -- | -- |
 
 
