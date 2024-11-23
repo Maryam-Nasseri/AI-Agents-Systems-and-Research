@@ -71,3 +71,6 @@ This is a general-purpose agentic system based on the paper "Improving Factualit
 
 ## GPT Pilot
 GPT Pilot is an AI agent that codes the entire app while you can observe the code being written as a development tool for scalable apps. Only around 5% of intervention is needed by a developer.
+
+## Vanna.AI
+Vanna is an Open-Source Python-based AI SQL agent trained on your schema that writes complex SQL queries for your databases using a RAG system based on your training data, i.e., the databse information.
