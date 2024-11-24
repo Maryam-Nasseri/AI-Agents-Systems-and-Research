@@ -74,3 +74,6 @@ GPT Pilot is an AI agent that codes the entire app while you can observe the cod
 
 ## Vanna.AI
 Vanna is an Open-Source Python-based AI SQL agent trained on your schema that writes complex SQL queries for your databases using a RAG system based on your training data, i.e., the databse information.
+
+## Invicta
+Multi-agent-building frameworks and platform using the best LLMs from OpenAI, Google, Mistral, and Anthropic to deploy agents where your team is (Zendesk, Slack, Discord) and your agents can collaborate with each other as a team to complete complex workflows. 
