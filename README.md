@@ -7,7 +7,7 @@ This repository contains the explanation, links, and videos about these AI Agent
 |AutoGen| Reflexion | HuggingGPT | Open Interpreter |
 |  Internet of Agents (IOA) | AgentForge | AgentGPT | Agent Verse |
 | TalktoData | Multiagent Debate | GPT Pilot | Vanna.AI |
-|  | -- | -- | -- |
+| WrenAI | -- | -- | -- |
 
 
 
@@ -77,3 +77,6 @@ Vanna is an Open-Source Python-based AI SQL agent trained on your schema that wr
 
 ## Invicta
 Multi-agent-building frameworks and platform using the best LLMs from OpenAI, Google, Mistral, and Anthropic to deploy agents where your team is (Zendesk, Slack, Discord) and your agents can collaborate with each other as a team to complete complex workflows. 
+
+## WrenAI
+Natural Language Interface to Your Databases to help you retrieve results and insights quickly and effortlessly, without the need for SQL coding. WrenAI lets you query data from multiple sources, regardless of different data formats and dialects. You can enjoy a standard interface across various sources. 
