@@ -7,7 +7,7 @@ This repository contains the explanation, links, and videos about these AI Agent
 |AutoGen| Reflexion | HuggingGPT | Open Interpreter |
 |  Internet of Agents (IOA) | AgentForge | AgentGPT | Agent Verse |
 | TalktoData | Multiagent Debate | GPT Pilot | Vanna.AI |
-| WrenAI | -- | -- | -- |
+| WrenAI | Aomni | -- | -- |
 
 
 
@@ -80,3 +80,6 @@ Multi-agent-building frameworks and platform using the best LLMs from OpenAI, Go
 
 ## WrenAI
 Natural Language Interface to Your Databases to help you retrieve results and insights quickly and effortlessly, without the need for SQL coding. WrenAI lets you query data from multiple sources, regardless of different data formats and dialects. You can enjoy a standard interface across various sources. 
+
+## Aomni
+Aomni is an AI agent with information extraction capabilities for business intelligence. It breaks down a high-level research question into a step-by-step plan and executes it, and it can access internet information without the need for an API.
