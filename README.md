@@ -7,7 +7,7 @@ This repository contains the explanation, links, and videos about these AI Agent
 |AutoGen| Reflexion | HuggingGPT | Open Interpreter |
 |  Internet of Agents (IOA) | AgentForge | AgentGPT | Agent Verse |
 | TalktoData | Multiagent Debate | GPT Pilot | Vanna.AI |
-| WrenAI | Aomni | -- | -- |
+| WrenAI | Aomni | Artisian AI | -- |
 
 
 
@@ -83,3 +83,6 @@ Natural Language Interface to Your Databases to help you retrieve results and in
 
 ## Aomni
 Aomni is an AI agent with information extraction capabilities for business intelligence. It breaks down a high-level research question into a step-by-step plan and executes it, and it can access internet information without the need for an API.
+
+## Artisian AI
+Artisian AI is an AI Agents system for sales, e-mails, and book keeping. They are trained to do specific roles and integrate alongside human teams, e.g., for automating the entire outbound sales process.
