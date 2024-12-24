@@ -7,7 +7,7 @@ This repository contains the explanation, links, and videos about these AI Agent
 |AutoGen| Reflexion | HuggingGPT | Open Interpreter |
 |  Internet of Agents (IOA) | AgentForge | AgentGPT | Agent Verse |
 | TalktoData | Multiagent Debate | GPT Pilot | Vanna.AI |
-| WrenAI | Aomni | Artisian AI | -- |
+| WrenAI | Aomni | Artisian AI | Claygent |
 
 
 
@@ -86,3 +86,6 @@ Aomni is an AI agent with information extraction capabilities for business intel
 
 ## Artisian AI
 Artisian AI is an AI Agents system for sales, e-mails, and book keeping. They are trained to do specific roles and integrate alongside human teams, e.g., for automating the entire outbound sales process.
+
+## Claygent
+AI agent for web scraping and data summarisation for marketing, sales, finance, and Business Intelligence. 
