@@ -8,6 +8,7 @@ This repository contains the explanation, links, and videos about these AI Agent
 |  Internet of Agents (IOA) | AgentForge | AgentGPT | Agent Verse |
 | TalktoData | Multiagent Debate | GPT Pilot | Vanna.AI |
 | WrenAI | Aomni | Artisian AI | Claygent |
+| OpenAGI | -- | -- | -- |
 
 
 
@@ -89,3 +90,6 @@ Artisian AI is an AI Agents system for sales, e-mails, and book keeping. They ar
 
 ## Claygent
 AI agent for web scraping and data summarisation for marketing, sales, finance, and Business Intelligence. 
+
+## OpenAGI
+This is a general-purpose R&D version of attempting AI agents for benchmark and open-ended tasks, using various LLMs including multi-modal generative models.
