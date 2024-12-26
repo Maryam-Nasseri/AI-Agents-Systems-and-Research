@@ -8,7 +8,7 @@ This repository contains the explanation, links, and videos about these AI Agent
 |  Internet of Agents (IOA) | AgentForge | AgentGPT | Agent Verse |
 | TalktoData | Multiagent Debate | GPT Pilot | Vanna.AI |
 | WrenAI | Aomni | Artisian AI | Claygent |
-| OpenAGI | -- | -- | -- |
+| OpenAGI | Beam | -- | -- |
 
 
 
@@ -93,3 +93,6 @@ AI agent for web scraping and data summarisation for marketing, sales, finance, 
 
 ## OpenAGI
 This is a general-purpose R&D version of attempting AI agents for benchmark and open-ended tasks, using various LLMs including multi-modal generative models.
+
+## Beam
+Beam is an agentic system for automating tasks with AI models across healthcare, insurance, logistics, customer service, etc. Beam allows businesses to customise their own automations or choose from existing agent templates to minimize the time it takes to execute complex tasks, repetitive tasks, and 100% of back-office tasks.
