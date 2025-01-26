@@ -8,7 +8,7 @@ This repository contains the explanation, links, and videos about these AI Agent
 |  Internet of Agents (IOA) | AgentForge | AgentGPT | Agent Verse |
 | TalktoData | Multiagent Debate | GPT Pilot | Vanna.AI |
 | WrenAI | Aomni | Artisian AI | Claygent |
-| OpenAGI | Beam | -- | -- |
+| OpenAGI | Beam | ChatDev | -- |
 
 
 
@@ -74,25 +74,28 @@ This is a general-purpose agentic system based on the paper "Improving Factualit
 GPT Pilot is an AI agent that codes the entire app while you can observe the code being written as a development tool for scalable apps. Only around 5% of intervention is needed by a developer.
 
 ## Vanna.AI
-Vanna is an Open-Source Python-based AI SQL agent trained on your schema that writes complex SQL queries for your databases using a RAG system based on your training data, i.e., the databse information.
+Vanna is an Open-Source Python-based AI SQL agent trained on your schema that writes complex SQL queries for your databases using a RAG system based on your training data, i.e., the database information.
 
 ## Invicta
-Multi-agent-building frameworks and platform using the best LLMs from OpenAI, Google, Mistral, and Anthropic to deploy agents where your team is (Zendesk, Slack, Discord) and your agents can collaborate with each other as a team to complete complex workflows. 
+Multi-agent-building frameworks and platforms using the best LLMs from OpenAI, Google, Mistral, and Anthropic to deploy agents where your team is (Zendesk, Slack, Discord) and your agents can collaborate with each other as a team to complete complex workflows. 
 
 ## WrenAI
 Natural Language Interface to Your Databases to help you retrieve results and insights quickly and effortlessly, without the need for SQL coding. WrenAI lets you query data from multiple sources, regardless of different data formats and dialects. You can enjoy a standard interface across various sources. 
 
 ## Aomni
-Aomni is an AI agent with information extraction capabilities for business intelligence. It breaks down a high-level research question into a step-by-step plan and executes it, and it can access internet information without the need for an API.
+Aomni is an AI agent with information extraction capabilities for business intelligence. It breaks down a high-level research question into a step-by-step plan and executes it. It can also access internet information without the need for an API.
 
 ## Artisian AI
-Artisian AI is an AI Agents system for sales, e-mails, and book keeping. They are trained to do specific roles and integrate alongside human teams, e.g., for automating the entire outbound sales process.
+Artisian AI is an AI Agent system for sales, e-mail, and bookkeeping. The agents are trained to perform specific roles and integrate alongside human teams, e.g., to automate the entire outbound sales process.
 
 ## Claygent
 AI agent for web scraping and data summarisation for marketing, sales, finance, and Business Intelligence. 
 
 ## OpenAGI
-This is a general-purpose R&D version of attempting AI agents for benchmark and open-ended tasks, using various LLMs including multi-modal generative models.
+OpenAGI is an open-source AGI R&D platform that enables agents for both benchmark tasks and open-ended tasks. This is a general-purpose R&D version of attempting AI agents for benchmark and open-ended tasks, using various LLMs including multi-modal generative models.
 
 ## Beam
-Beam is an agentic system for automating tasks with AI models across healthcare, insurance, logistics, customer service, etc. Beam allows businesses to customise their own automations or choose from existing agent templates to minimize the time it takes to execute complex tasks, repetitive tasks, and 100% of back-office tasks.
+Beam is an agentic system for automating tasks with AI models across healthcare, insurance, logistics, customer service, etc. Beam allows businesses to customise their own automation or choose from existing agent templates to minimize the time it takes to execute complex tasks, repetitive tasks, and 100% back-office tasks.
+
+## ChatDev
+ChatDev is a virtual software company driven by a multitude of intelligent agents. These agents assume different roles, such as CEO, CPO, CTO, programmer, reviewer, tester, and art designer, each represented by unique icons. They collaborate in a structured organizational environment.
